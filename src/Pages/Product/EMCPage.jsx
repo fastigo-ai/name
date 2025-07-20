@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import emcProducts from '../../Data/emcProducts'
+import emcProducts from '../../Data/EmcProducts'
 import { useNavigate } from "react-router-dom";
 const EMCPage = () => {
   const [expandedIndex, setExpandedIndex] = useState(null);
