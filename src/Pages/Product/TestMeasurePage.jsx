@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 // import Banner2 from "../../assets/Banner/banner2.jpg";
 // import Banner3 from "../../assets/Banner/banner3.jpg";
 // import Banner4 from "../../assets/Banner/banner4.jpg";
-import { Products } from '../../Data/productsData';
+import { Products } from '../../Data/ProductsData';
 import { useNavigate } from "react-router-dom";
 
 // const desktopSlides = [
