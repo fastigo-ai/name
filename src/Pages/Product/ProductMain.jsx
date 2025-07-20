@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import productCategories from "../../Data/productMain";
+import productCategories from "../../Data/ProductMain";
 import { motion } from "framer-motion";
 import Banner from "../../assets/Banner/bannerr14.png";
 import Banner1 from "../../assets/Banner/banner16.png";
