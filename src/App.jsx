@@ -11,7 +11,7 @@ import Contact from "./component/Contact";
 import Automation from "./Pages/Automation";
 // import TestSolutionsTable from './pages/testSolutionsTable';
 import ProductMain from "./Pages/Product/ProductMain";
-import AutomationPage from './pages/Product/AutomationPage';
+import AutomationPage from './Pages/Product/AutomationPage';
 import EMCPage from './Pages/Product/EMCPage';
 import TestMeasurePage from './Pages/Product/TestMeasurePage';
 import ErrorPage from "./component/ErrorPage";
