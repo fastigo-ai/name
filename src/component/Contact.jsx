@@ -2,7 +2,7 @@ import React from "react";
 import { Phone, Mail, MapPin } from "lucide-react";
 
 import Left from "../assets/New folder/R.jpg";
-import Banner from "../assets/Banner/contactUs.png";
+import contactBanner  from "../assets/Banner/contactUs.png";
 
 const Contact = () => {
   return (
@@ -11,13 +11,13 @@ const Contact = () => {
       <div className="w-full relative">
         {/* Mobile Banner */}
         <img
-          src={Banner}
+          src={contactBanner }
           alt="Mobile Banner"
           className="block md:hidden w-full h-[200px] object-fill"
         />
         {/* Desktop Banner */}
         <img
-          src={Banner}
+          src={contactBanner }
           alt="Desktop Banner"
           className="hidden md:block w-full h-[500px] object-fill"
         />
