@@ -2,7 +2,7 @@ import React from "react";
 import { Phone, Mail, MapPin } from "lucide-react";
 
 import Left from "../assets/New folder/R.jpg";
-import contactBanner  from "../assets/Banner/contactus.png";
+import contactBanner from '../assets/Banner/contacus.png'
 
 const Contact = () => {
   return (
