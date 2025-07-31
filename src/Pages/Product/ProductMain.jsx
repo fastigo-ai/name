@@ -107,18 +107,18 @@ const ProductMain = () => {
         </div>
 
         {/* Bottom Banner with Button */}
-        <div className="w-full relative mt-5">
+        <div className="max-w-7xl relative mt-7 ">
           {/* Mobile Banner */}
           <img
             src={Banner1}
             alt="Mobile Banner"
-            className="block md:hidden w-full h-[200px] object-fill"
+            className="block md:hidden w-full  object-cover"
           />
           {/* Desktop Banner */}
           <img
             src={Banner1}
             alt="Desktop Banner"
-            className="hidden md:block w-full h-[500px] object-fill"
+            className="hidden md:block w-full  object-cover"
           />
           {/* Centered Button Below Image */}
           <div className="flex justify-center mt-2">

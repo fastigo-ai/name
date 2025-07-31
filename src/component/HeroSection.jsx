@@ -8,7 +8,7 @@ import Banner6 from "../assets/adverticment/Ad1Banner.png";
 import Banner7 from "../assets/adverticment/1.png";
 import Banner8 from "../assets/adverticment/4.png";
 
-const desktopSlides = [Banner1, Banner2, Banner3, Banner4];
+const desktopSlides = [Banner2, Banner1, Banner3, Banner4];
 const mobileSlides = [Banner5, Banner6, Banner7, Banner8];
 
 const HeroSection = () => {
@@ -97,17 +97,13 @@ const HeroSection = () => {
             <span className="text-amber-500">Welcome to</span> Ethotron
           </h2>
           <p>
-            With over 18 years of industry expertise, Ethotron Pvt. Ltd. is a
-            leading provider of high-tech solutions for the electronics and
-            manufacturing sectors. From SMT and testing instruments to
-            custom-built automation systems and turnkey projects, we deliver
-            innovation with reliability.
+           Ethotron Pvt. Ltd. is a leading provider of high-tech solutions for the electrical, electronics and manufacturing sectors. From SMT and testing instruments to custom-built automation systems and turnkey projects, we deliver innovation with reliability.
+
+
           </p>
           <p>
-            We offer a comprehensive range of products and services under one
-            roof—including Testing Instruments, FCT Fixtures, SMT Consumables,
-            ESD Products, SPM Machines, and Automation Solutions—designed to
-            meet the evolving needs of modern manufacturing.
+           We offer a comprehensive range of products and services under one roof—including Testing Instruments, Lugs, Terminals, Cutting, Stripping, Cripping Tools FCT Fixtures, SMT Consumables, ESD Products, SPM Machines, and Automation Solutions—designed to meet the evolving needs of modern manufacturing.
+
           </p>
           <p>
             Ethotron has a wide variety of instrumentation including AC Power
@@ -122,38 +118,22 @@ const HeroSection = () => {
       {/* Additional Description */}
       <div className="max-w-7xl mx-auto px-4 lg:px-8 pb-10 space-y-4 text-gray-700">
         <p>
-          The systems can be used to test PC/Servo/Telecom power supplies,
-          adapters, chargers, backlight inverters, LED power drivers, UPS's, PV
-          Inverters, EV chargers, and battery packs. With technical support
-          available, Ethotron can provide automated test systems and the
-          fabrication of test fixtures simultaneously at multiple locations
-          across India.
+         The systems can be used to test PC/Servo/Telecom power supplies, adapters, chargers, backlight inverters, LED power drivers, UPS's, PV Inverters, EV chargers, and battery packs. With technical support available, Ethotron can provide automated test systems and the fabrication of test fixtures simultaneously at multiple locations across India.
+
         </p>
         <p>
-          Ethotron is a premier supplier of EMC generators, proudly serving the
-          automotive industry and standing among the leaders in testing
-          solutions for IEC standards, telecommunications, medical devices, and
-          electronic components.
+          Ethotron is a premier supplier of EMC generators, proudly serving the automotive industry and standing among the leaders in testing solutions for IEC standards, telecommunications, medical devices, and electronic components.
+
         </p>
         <p>
-          Our solutions are engineered to meet and exceed the most demanding
-          industry specifications. We offer the capability to tailor test
-          routines precisely to individual test standards to meet unique
-          customer requirements.
+        
+Our sourced solutions are engineered to meet and exceed the most demanding industry specifications. We offer the capability to tailor test routines precisely to individual test standards to meet unique customer requirements.
+
         </p>
         <p>
-          Ethotron systems are designed with user experience in mind—delivering
-          intuitive, easy-to-operate software, highly sophisticated test
-          routines, and cutting-edge technology. Our EMC generators are known
-          for their exceptional reliability and consistent performance in the
-          most rigorous testing environments.
+          Ethotron systems are designed with user experience in mind—delivering intuitive, easy-to-operate software, highly sophisticated test routines, and cutting-edge technology. Driven by a skilled team and a passion for engineering excellence, Ethotron combines deep industry knowledge with cutting-edge technology to empower your production with precision, efficiency, and performance.
         </p>
-        <p>
-          Driven by a skilled team and a passion for engineering excellence,
-          Ethotron combines deep industry knowledge with cutting-edge technology
-          to empower your production with precision, efficiency, and
-          performance.
-        </p>
+       
       </div>
     </>
   );
